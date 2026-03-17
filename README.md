@@ -1,7 +1,10 @@
 # Raspberry Pi Homelab – Network Monitoring & Security
 
-This project documents my self-hosted homelab environment built to monitor
-network traffic, block malicious domains, and visualize DNS activity.
+Built a self-hosted Raspberry Pi 4 homelab to provide network-wide DNS filtering, monitoring dashboards, secure remote access, and automated alerting.
+
+## Overview
+
+This project documents my homelab environment used to monitor network traffic, block ads and malicious domains, visualize DNS activity, and send alerts for suspicious behavior or outages.
 
 ## Infrastructure
 
@@ -17,9 +20,9 @@ network traffic, block malicious domains, and visualize DNS activity.
 
 - Network-wide ad and malware blocking
 - DNS query monitoring per device
-- Real-time dashboards in Grafana
-- Automated alerts for outages and suspicious DNS activity
-- Remote access via WireGuard VPN
+- Real-time Grafana dashboards
+- Automated Discord alerts for outages and suspicious DNS activity
+- Secure remote access through WireGuard VPN
 
 ## Tech Stack
 
@@ -29,8 +32,18 @@ network traffic, block malicious domains, and visualize DNS activity.
 - Grafana
 - Prometheus
 - WireGuard
-- Bash scripting
+- Bash
 
+## How It Works
+
+1. Network clients send DNS requests through Pi-hole.
+2. Pi-hole blocks ad, tracking, and malicious domains before they resolve.
+3. Exporters collect DNS and system metrics from the homelab environment.
+4. Grafana visualizes network activity, query trends, and hardware health.
+5. Bash scripts send alerts to Discord for DNS spikes, suspicious activity, and connectivity issues.
+6. WireGuard provides secure remote administrative access to internal services.
+
+## Repository Structure
 ## Architecture
 
 ![Network Diagram](architecture/network-diagram.png)
