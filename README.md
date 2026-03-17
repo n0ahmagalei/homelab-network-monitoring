@@ -37,34 +37,34 @@ network traffic, block malicious domains, and visualize DNS activity.
 
 ## Pi-Hole Dashboard
 
-![Pi-Hole Dashbiard](screenshots/Pi-Hole-Dashboard)
+![Pi-Hole Dashbiard](screenshots/Pi-Hole-Dashboard.png)
 
 ## Grafana Dashboards
 
 ### Network Monitor
-![Grafana Network Monitor](screenshots/Grafana-Network-Dashboard)
+![Grafana Network Monitor](screenshots/Grafana-Network-Dashboard.png)
 
 ### Hardware Monitor
-![Grafana Hardware Monitor](screenshots/Grafana-Hardware-Usage-Dashboard)
+![Grafana Hardware Monitor](screenshots/Grafana-Hardware-Usage-Dashboard.png)
 
 ## Wireguard VPN
 
 ### Accepted Devices
 
-![Accepted Devices for VPN access](screenshots/Wireguard-VPN)
+![Accepted Devices for VPN access](screenshots/Wireguard-VPN.png)
 
 ## Discord Alerts
 
 ### Daily Stats
-![Daily Stats](screenshots/Discord-Daily-Stats)
+![Daily Stats](screenshots/Discord-Daily-Stats.png)
 
 ### Suspicious Activity
-![Suspicious Activity](screenshots/Discord-Suspicious-Activity)
+![Suspicious Activity](screenshots/Discord-Suspicious-Domains.png)
 
 ### DNS Spikes
-![DNS Spikes](screenshots/Discord-DNS-Spike-Alerts)
+![DNS Spikes](screenshots/Discord-DNS-Spikes.png)
 
 ### Connection Check
-![Connection Check](screenshots/Discord-Check-Connection)
+![Connection Check](screenshots/Discord-Connection.png)
 
 
