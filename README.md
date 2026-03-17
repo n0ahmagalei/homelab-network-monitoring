@@ -35,6 +35,8 @@ network traffic, block malicious domains, and visualize DNS activity.
 
 ![Network Diagram](architecture/network-diagram.png)
 
-## Example Dashboard
+## Grafana Dash boards
 
-![Grafana](screenshots/Grafana-Netowrk-Dashboard)
+![Grafana Network Monitor](screenshots/Grafana-Network-Dashboard)
+
+![Grafana Hardware Monitor](screenshots/Grafana-Hardware-Dashboard)
