@@ -35,8 +35,25 @@ network traffic, block malicious domains, and visualize DNS activity.
 
 ![Network Diagram](architecture/network-diagram.png)
 
-## Grafana Dash boards
+## Pi-Hole Dashboard
+
+![Pi-Hole Dashbiard](screenshots/Pi-Hole-Dashboard)
+
+## Grafana Dashboards
 
 ![Grafana Network Monitor](screenshots/Grafana-Network-Dashboard)
 
-![Grafana Hardware Monitor](screenshots/Grafana-Hardware-Dashboard)
+![Grafana Hardware Monitor](screenshots/Grafana-Hardware-Usage-Dashboard)
+
+## Wireguard VPN
+
+![Accepted Devices for VPN access](screenshots/Wireguard-VPN)
+
+## Discord Alerts
+
+![Daily Stats](screenshots/Discord-Daily-Stats)
+![Suspicious Activity](screenshots/Discord-Suspicious-Acitvity)
+![DNS Spikes](screenshots/Discord-DNS-Spike-Alerts)
+![Connection Check](screenshots/Discord-Check-Connection)
+
+
