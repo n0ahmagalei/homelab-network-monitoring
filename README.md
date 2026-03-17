@@ -41,19 +41,30 @@ network traffic, block malicious domains, and visualize DNS activity.
 
 ## Grafana Dashboards
 
+### Network Monitor
 ![Grafana Network Monitor](screenshots/Grafana-Network-Dashboard)
 
+### Hardware Monitor
 ![Grafana Hardware Monitor](screenshots/Grafana-Hardware-Usage-Dashboard)
 
 ## Wireguard VPN
+
+### Accepted Devices
 
 ![Accepted Devices for VPN access](screenshots/Wireguard-VPN)
 
 ## Discord Alerts
 
+### Daily Stats
 ![Daily Stats](screenshots/Discord-Daily-Stats)
-![Suspicious Activity](screenshots/Discord-Suspicious-Acitvity)
+
+### Suspicious Activity
+![Suspicious Activity](screenshots/Discord-Suspicious-Activity)
+
+### DNS Spikes
 ![DNS Spikes](screenshots/Discord-DNS-Spike-Alerts)
+
+### Connection Check
 ![Connection Check](screenshots/Discord-Check-Connection)
 
 
