@@ -37,4 +37,4 @@ network traffic, block malicious domains, and visualize DNS activity.
 
 ## Example Dashboard
 
-![Grafana](screenshots/grafana-dashboard.png)
+![Grafana](screenshots/Grafana-Netowrk-Dashboard.png)
